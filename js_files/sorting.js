@@ -1,6 +1,6 @@
 
 // To create new array input size of array
-function createNewArray(noOfBars = 60) {
+function createNewArray(noOfBars = 30) {
 
 
 
